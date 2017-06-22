@@ -14,7 +14,7 @@ body {
 
 /*header*/
 header {
-	background-color: #313234;
+	background-color: #000;
 	height: 50px;
 }
 header > nav > ul {
